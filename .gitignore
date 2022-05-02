@@ -4,6 +4,9 @@ renv/library/
 # Original data downloads
 cdc_downloads/
 
+# Compiled Rdata files
+data/*.Rdata
+
 # History files
 .Rhistory
 .Rapp.history
