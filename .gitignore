@@ -7,6 +7,9 @@ cdc_downloads/
 # Compiled Rdata files
 data/*.Rdata
 
+# Local data files
+local_outputs/
+
 # History files
 .Rhistory
 .Rapp.history
